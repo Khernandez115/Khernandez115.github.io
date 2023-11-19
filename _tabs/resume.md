@@ -3,10 +3,12 @@ icon: fas fa-globe
 order: 1
 ---
 # Kenneth Hernandez 
+
 ### SEC+ Certified
 ___
 
 ## Education
+
 ### Loyola University of Chicago
 
 Bachelor's of Science in Cybersecurity Class of '23
@@ -25,6 +27,7 @@ Cybersecurity, Network Security, Computer Networks, Wireless Security, Database 
 ## Experience
 
 ## Integrity Home Integration
+
 #### IT Specialist/Low-Voltage Technician
 Issaquah, WA | June 2023 - Present
 
@@ -35,6 +38,7 @@ Issaquah, WA | June 2023 - Present
 * Head of Vacuuming
 
 ## TAC (formerly known as MISI)
+
 #### Security Operationcs Center (SOC) Tier 1 Paid Intern 
 Remote | June 2022 - August 2022
 
@@ -54,58 +58,65 @@ Chicago, IL | Spring 2022 - Spring 2023
 ## Competitions 
 
 ##### Hack The Hostipal Qualifers 
-Placed 1st  in a team of 5 students in week-long pentesting competition to hack a mock island.  
+* Placed 1st  in a team of 5 students in week-long pentesting competition to hack a mock island.  
 
-Used NMAP, poorly configured credentials, and known vulnerabilities in devices to access and exploit computers, cameras, stop lights, and conveyor belts. 
+* Used NMAP, poorly configured credentials, and known vulnerabilities in devices to access and exploit computers, cameras, stop lights, and conveyor belts. 
 
 
 ##### DOE - Cyberforce 
-Placed 23rd in a team of 6 students against 144 teams to tackle real-life BlueTeam scenarios and CTF challenges. 
+* Placed 23rd in a team of 6 students against 144 teams to tackle real-life BlueTeam scenarios and CTF challenges. 
 
-Analyzed security posture of provided virtual environment and implemented free tools such as Windows Defender, Windows Firewall, and Backups prior to the start of the competition. 
+* Analyzed security posture of provided virtual environment and implemented free tools such as Windows Defender, Windows Firewall, and Backups prior to the start of the competition. 
 
-Detected, responded, and recovered from seven events caused by the competition’s professional RedTeam. 
+* Detected, responded, and recovered from seven events caused by the competition’s professional RedTeam. 
 ##### CPTTC - Penetration Testing Competition
-Compete in a team of 6 against universities throughout the world in penetration testing competition. 
+* Compete in a team of 6 against universities throughout the world in penetration testing competition. 
 
-Used tools such as Nmap, Nessus, Metasploit, Dev tools, phishing email, and more to gain access to mock hotel network.  
+* Used tools such as Nmap, Nessus, Metasploit, Dev tools, phishing email, and more to gain access to mock hotel network.  
 
-Gained access to LDAP server, hosting all user Personal identifying information
-##### NCAE Cyber Games
- 
+* Gained access to LDAP server, hosting all user Personal identifying information
+
 ##### CCDC - Collegiate Cyber Defense Copmetition
-Assigned Mock network to configure and protect from Professional Red Team
-Compromised in the first ten minutes of the competition
-Learned importance of doing basic security configurations
+* Assigned Mock network to configure and protect from Professional Red Team
+
+* Compromised in the first ten minutes of the competition
+
+* Learned importance of doing basic security configurations
 
 ### Clubs and Organizations
+
 ##### Motorola Solutions Scholarship Program
 Fall 2021-Spring 2023
-Selected as 5 out of 20+ applicants to provide students with experiential cybersecurity learning. 	      
-Program allows for focus on learning work-like scenarios using tools such as CyberStart, HackTheBox, and competitions
+* Selected as 5 out of 20+ applicants to provide students with experiential cybersecurity learning. 	      
+* Program allows for focus on learning work-like scenarios using tools such as CyberStart, HackTheBox, and competitions
 
 ##### Don't Panic! Computer Science Club
-Club Representive for Campus club meetings
+* Club Representive for Campus club meetings
 
-Resposible for collaborating with E-Board to get CS and CS interested students to engage with 
+* Collaborating with E-Board to get CS and CS interested students to engage with campus community via Discord and Events
 ##### PAC Mentorship Program
-Paired with Matthew Mead, CTO of SPR, in technology focused Mentorship Program.
+* Paired with Matthew Mead, CTO of SPR, in technology focused Mentorship Program.
+
 ##### Cybersecurity Club
-Acivelty participated in CTF and state-sponsored Cyber competitions
+* Acivelty participated in CTF and state-sponsored Cyber competitions
+
 ##### Loyola Men's Club Volleyball
-National Champions Spring '23
+* National Champions Spring '23
 
-Club Vice-President Junior Year
+* Club Vice-President Junior Year
 
-Club Secretary Senior Year
+* Club Secretary Senior Year
+
 ##### Brothers 4 Excellence 
-Member of CDI organization promoting Men of Color in academia
+* Member of CDI organization promoting Men of Color in academia
+
 ##### Panel Speaker for Center of Diversity and Inclusion
 
 ##### Selected by Financial Aid Office to share my story and stress the importance of MAP Grant due to potential defunding during covid to the Govenor of Illinois
 
 ## Technical Skills
 Microsoft Office, Java, Python, C#, Linux, Kali Linux, Windows, EnCase, Wireshark, FTK Imager, Active Disk Editor, Event Viewer, Elastic, Splunk, Process Hacker 2, Metasploit, Burp Suite, MYSQL, GitHub
+
 ## Languages
 Fluent in English 
 
