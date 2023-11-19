@@ -69,6 +69,7 @@ Chicago, IL | Spring 2022 - Spring 2023
 * Analyzed security posture of provided virtual environment and implemented free tools such as Windows Defender, Windows Firewall, and Backups prior to the start of the competition. 
 
 * Detected, responded, and recovered from seven events caused by the competition’s professional RedTeam. 
+
 ##### CPTTC - Penetration Testing Competition
 * Compete in a team of 6 against universities throughout the world in penetration testing competition. 
 
