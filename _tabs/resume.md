@@ -95,6 +95,7 @@ Fall 2021-Spring 2023
 * Club Representive for Campus club meetings
 
 * Collaborating with E-Board to get CS and CS interested students to engage with campus community via Discord and Events
+
 ##### PAC Mentorship Program
 * Paired with Matthew Mead, CTO of SPR, in technology focused Mentorship Program.
 
@@ -112,8 +113,6 @@ Fall 2021-Spring 2023
 * Member of CDI organization promoting Men of Color in academia
 
 ##### Panel Speaker for Center of Diversity and Inclusion
-
-##### Selected by Financial Aid Office to share my story and stress the importance of MAP Grant due to potential defunding during covid to the Govenor of Illinois
 
 ## Technical Skills
 Microsoft Office, Java, Python, C#, Linux, Kali Linux, Windows, EnCase, Wireshark, FTK Imager, Active Disk Editor, Event Viewer, Elastic, Splunk, Process Hacker 2, Metasploit, Burp Suite, MYSQL, GitHub
