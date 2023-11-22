@@ -58,12 +58,14 @@ Chicago, IL | Spring 2022 - Spring 2023
 ## Competitions 
 
 ##### Hack The Hostipal Qualifers 
+
 * Placed 1st  in a team of 5 students in week-long pentesting competition to hack a mock island.  
 
 * Used NMAP, poorly configured credentials, and known vulnerabilities in devices to access and exploit computers, cameras, stop lights, and conveyor belts. 
 
 
 ##### DOE - Cyberforce 
+
 * Placed 23rd in a team of 6 students against 144 teams to tackle real-life BlueTeam scenarios and CTF challenges. 
 
 * Analyzed security posture of provided virtual environment and implemented free tools such as Windows Defender, Windows Firewall, and Backups prior to the start of the competition. 
@@ -71,6 +73,7 @@ Chicago, IL | Spring 2022 - Spring 2023
 * Detected, responded, and recovered from seven events caused by the competition’s professional RedTeam. 
 
 ##### CPTTC - Penetration Testing Competition
+
 * Compete in a team of 6 against universities throughout the world in penetration testing competition. 
 
 * Used tools such as Nmap, Nessus, Metasploit, Dev tools, phishing email, and more to gain access to mock hotel network.  
