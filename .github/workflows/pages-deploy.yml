@@ -76,10 +76,10 @@ jobs:
           if [[ {${GITHUB_REF}= refs/pull/*/merge ]]; then
             echo "SRC_BRANCH=${GITHUB_HEAD_REF}" >> $GITHUB_OUTPUT
           echo "NO_PUSH=--no-push" >> $GITHUB_OUTPUT
-        elif [[ ${GITHUB_REF} = refs/heads/* ]]; then # branch, e.g. master, source etc
-          echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_OUTPUT
-        fi
-        echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
+          elif [[ ${GITHUB_REF} = refs/heads/* ]]; then # branch, e.g. master, source etc
+            echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_OUTPUT
+          fi
+          echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
