@@ -103,7 +103,7 @@ Fall 2021-Spring 2023
 * Paired with Matthew Mead, CTO of SPR, in technology focused Mentorship Program.
 
 ##### Cybersecurity Club
-* Acivelty participated in CTF and state-sponsored Cyber competitions
+* Actively participated in CTF and state-sponsored Cyber competitions
 
 ##### Loyola Men's Club Volleyball
 * National Champions Spring '23
