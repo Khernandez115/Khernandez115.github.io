@@ -6,7 +6,7 @@ order: 4
 
 #### Hello, I'm Kenneth. Welcome to my page!
 
-"Experience is living out the things you always wanted to do as a child." - Some guy. {SITE} 
+“You were born with the ability to change someone’s life—don’t ever waste it.” – Dale Partridge
 
 I'm a recent graduate of Loyola University of Chicago with my Bachelor's in Cybersecurity. My passion for Cybersecurity stems from its ability to help others and keep me glued to my computer, both having been important to me from a young age. 
 
