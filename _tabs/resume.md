@@ -80,7 +80,7 @@ Chicago, IL | Spring 2022 - Spring 2023
 
 * Gained access to LDAP server, hosting all user Personal identifying information
 
-##### CCDC - Collegiate Cyber Defense Copmetition
+##### CCDC - Collegiate Cyber Defense Competition
 * Assigned Mock network to configure and protect from Professional Red Team
 
 * Compromised in the first ten minutes of the competition
