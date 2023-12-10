@@ -50,6 +50,7 @@ Remote | June 2022 - August 2022
 ## Loyola Undergraduate Research Assistant
 Chicago, IL | Spring 2022 - Spring 2023
 * Co-author of research paper on the topic of DNS Over HTTPS envryption vulnerabilities.
+    -https://ieeexplore.ieee.org/document/10165086
 * Conduct research on DNS over HTTPS privacy by analyzing network metadata to predict domain names. 
 * Determined size of inbound and outbound network traffic of the collected data, using a python script. 
 * Used RNN and Random Forest algorithms for model training.
