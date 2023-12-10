@@ -53,7 +53,7 @@ Chicago, IL | Spring 2022 - Spring 2023
 * Co-author of research paper on the topic of DNS Over HTTPS envryption vulnerabilities.
 * Conduct research on DNS over HTTPS privacy by analyzing network metadata to predict domain names. 
 * Determined size of inbound and outbound network traffic of the collected data, using a python script. 
-* Used RNN and Random Forest algorithms for model training.
+* Used Random Forest algorithm for model training.
 
 
 ## Competitions 
