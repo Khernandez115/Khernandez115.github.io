@@ -11,3 +11,4 @@ order: 4
 I'm a recent graduate of Loyola University of Chicago with my Bachelor's in Cybersecurity. My passion for Cybersecurity stems from its ability to help others and keep me glued to my computer, both having been important to me from a young age. 
 
 This page is a place that allows me to share my findings as I continue to expand on that passion. 
+<img src = "/assets/images/Browse.PNG" alt="About page banner">
