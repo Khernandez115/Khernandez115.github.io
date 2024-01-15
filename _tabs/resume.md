@@ -26,20 +26,9 @@ Cybersecurity, Network Security, Computer Networks, Wireless Security, Database 
 
 ## Experience
 
-## Integrity Home Integration
-
-#### IT Specialist/Low-Voltage Technician
-Issaquah, WA | June 2023 - Present
-
-* Responsible for network configuration of Ubiquiti and Netgear devices for select projects
-* Use VLANs and hidden networks to include segmentation as a layer of security
-* Assist in running wires and building network racks
-* Device installation including access points, security systems, TVs, audio systems, cameras, light switches, and more
-* Head of Vacuuming
-
 ## TAC (formerly known as MISI)
 
-#### Security Operationcs Center (SOC) Tier 1 Paid Intern 
+#### Security Operations Center (SOC) Tier 1 Paid Intern 
 Remote | June 2022 - August 2022
 
 * Selected as 1 of 20 for the National Security Agency (NSA) and Maryland Innovation & Security Institute (MISI) internship 
@@ -55,12 +44,22 @@ Chicago, IL | Spring 2022 - Spring 2023
 * Determined size of inbound and outbound network traffic of the collected data, using a python script. 
 * Used Random Forest algorithm for model training.
 
+## Integrity Home Integration
+
+#### IT Specialist/Low-Voltage Technician
+Issaquah, WA | June 2023 - Present (Current)
+
+* Responsible for network configuration of Ubiquiti and Netgear devices 
+* Use VLANs and hidden networks to include segmentation as a layer of security
+* Assist in running wires and building network racks
+* Device installation including access points, security systems, TVs, audio systems, cameras, light switches, and more
+* Head of Vacuuming
 
 ## Competitions 
 
-##### Hack The Hostipal Qualifers 
+##### Hack The Hostipal Qualifiers 
 
-* Placed 1st  in a team of 5 students in week-long pentesting competition to hack a mock island.  
+* Placed 1st in a team of 5 students in week-long pentesting competition to hack a mock island.  
 
 * Used NMAP, poorly configured credentials, and known vulnerabilities in devices to access and exploit computers, cameras, stop lights, and conveyor belts. 
 
@@ -73,7 +72,7 @@ Chicago, IL | Spring 2022 - Spring 2023
 
 * Detected, responded, and recovered from seven events caused by the competition’s professional RedTeam. 
 
-##### CPTTC - Penetration Testing Competition
+##### CPTC - Penetration Testing Competition
 
 * Compete in a team of 6 against universities throughout the world in penetration testing competition. 
 
