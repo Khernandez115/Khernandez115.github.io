@@ -5,7 +5,7 @@ categories: [Blogs, Incident Response]
 tags: [CyberDefender, Incident Response ]
 ---
 
-CyberDefenders is a platform that is used for BlueTeam Training. The Elastic-Case Lab, now expired, shows how a Log4Shell can be seen through the Elastic SIEM. Thought it has been out a few years, this exploit is still used in the wild. On December 11, 2023 it was reported by BleepingComputer that the Lazarus group had released a new RAT using this exploit. BleepingComputer also wrote that roughly 38% of applications using the Apache Log4j library are using a vulnerable version.  
+CyberDefenders is a platform that is used for BlueTeam Training. The Elastic-Case Lab, now expired, shows how a Log4Shell exploit can be seen through the Elastic SIEM. This vulnerability has been out for a few years now, but it is still seen being exploited in the wild. On December 11, 2023 it was reported by BleepingComputer that the Lazarus group had released a new RAT using this exploit. BleepingComputer also wrote that roughly 38% of applications using the Apache Log4j library are using a vulnerable version.  
 
 Scenario:
 
